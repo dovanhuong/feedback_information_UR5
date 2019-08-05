@@ -1,0 +1,22 @@
+string name1
+float64 X
+float64 Y
+float64 Z
+float64 Rx
+float64 Ry
+float64 Rz
+string name2
+float64 q1
+float64 q2
+float64 q3
+float64 q4
+float64 q5
+float64 q6
+string name3
+float64 vq1
+float64 vq2
+float64 vq3
+float64 vq4
+float64 vq5
+float64 vq6
+
